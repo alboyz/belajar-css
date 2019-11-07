@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
   color: blue;
 }
 
@@ -12,4 +12,12 @@ h1 {
 
 h3,h4,h5{
   color:red;
+} */
+
+.warnaclass{
+  color: red;
+}
+
+h2{
+  color:blue;
 }
