@@ -13,11 +13,18 @@
 h3,h4,h5{
   color:red;
 } */
-
-.warnaclass{
+.warnaclass {
   color: red;
 }
 
-h2{
-  color:blue;
+h2 {
+  color: blue;
+}
+
+#idwarna {
+  background-color: orange;
+}
+
+body {
+  background: orange url(../img/rajaampat.jpg) no-repeat center ;
 }
