@@ -1,7 +1,8 @@
-.judul{
+#judul{
   text-decoration: underline;
   font-size: 30px;
+  color: blue;
 }
-.paragraf_pertama{
+#paragraf_pertama{
   color: orange;
 }
