@@ -1,0 +1,12 @@
+h1{
+  text-decoration: underline;
+}
+.p-pertama{
+  text-decoration: overline;
+}
+.p-kedua{
+  text-decoration: line-through;
+}
+.p-ketiga{
+  text-decoration: inherit;
+}
