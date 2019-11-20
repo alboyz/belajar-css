@@ -1,0 +1,12 @@
+h2{
+  text-decoration: underline;
+}
+.p-pertama{
+  line-height: 130%
+}
+.p-kedua{
+  line-height: 20px;
+}
+.p-ketiga{
+  line-height: 2em;
+}
