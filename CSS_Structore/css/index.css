@@ -1,8 +1,4 @@
-#judul{
-  text-decoration: underline;
-  font-size: 30px;
-  color: blue;
-}
-#paragraf_pertama{
+[type="submit"]{
   color: orange;
+  background-color: blue;
 }
