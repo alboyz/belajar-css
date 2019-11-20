@@ -1,4 +1,9 @@
-p{
+body{
   color: green;
-  font-size: 30px;
+}
+div{
+  color: magenta;
+}
+strong{
+  color: red;
 }
