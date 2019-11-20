@@ -1,0 +1,12 @@
+h1{
+  text-decoration: underline;
+}
+.p-pertama{
+  font-variant: small-caps;
+}
+.p-kedua{
+  font-variant: normal;
+}
+.p-ketiga{
+  font-variant: inherit;
+}
