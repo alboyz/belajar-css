@@ -1,0 +1,18 @@
+h1{
+  text-decoration: underline;
+}
+.p-pertama{
+  text-align: center;
+}
+.p-kedua{
+  text-align: left;
+}
+.p-ketiga{
+  text-align: justify;
+}
+.p-keempat{
+  text-align: right;
+}
+.p-kelima{
+  text-align: inherit;
+}
