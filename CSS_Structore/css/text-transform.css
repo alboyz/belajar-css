@@ -1,0 +1,12 @@
+.p-pertama {
+  text-transform: capitalize;
+}
+.p-kedua{
+  text-transform: full-width;
+}
+.p-ketiga{
+  text-transform: lowercase;
+}
+.p-keempat{
+  text-transform: uppercase;
+}
