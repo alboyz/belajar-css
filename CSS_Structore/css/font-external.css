@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Font Digital";
+  src: url("../font/digital-7.ttf");
+}
+p{
+  font-family: "Font Digital";
+
+}
